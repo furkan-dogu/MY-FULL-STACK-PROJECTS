@@ -4,6 +4,7 @@
 
 ## My Full-Stack Projects
 
-  Frontend Live Link       |  Backend Live Link       |Libraries and Technologies I use   | Frontend Repo Link    | Backend Repo Link   
-:--------------------------|--------------------------|-----------------------------------|-----------------------|-------------------------
-|[Frontend](https://library-fe-two.vercel.app/)|[Backend](https://library-be-tw3h.onrender.com)|React, Axios, Material UI, Node.js, Express.js, MongoDB, Mongoose, Cors, Dotenv, express-async-errors|[Library FE](https://github.com/furkan-dogu/Library-FE)|[Library BE](https://github.com/furkan-dogu/Library_BE)
+ Project Name|Frontend Live Link       |  Backend Live Link       |Libraries and Technologies I use   | Frontend Repo Link    | Backend Repo Link   
+:--------------------------|--------------------------|--------------------------|-----------------------------------|-----------------------|-------------------------
+|Library|[Frontend](https://library-fe-two.vercel.app/)|[Backend](https://library-be-tw3h.onrender.com)|React, Axios, Material UI, Node.js, Express.js, MongoDB, Mongoose, Cors, Dotenv, express-async-errors|[Library FE](https://github.com/furkan-dogu/Library-FE)|[Library BE](https://github.com/furkan-dogu/Library_BE)
+|Furkan Store|[Frontend](https://furkan-store-with-nextjs.vercel.app/)|[Backend](https://productapi-6sri.onrender.com/)|React, NextJS, Axios, Tailwind, React Icons, Sweetalert2, Node.js, Express.js, MongoDB, Mongoose, Cors, Dotenv, express-async-errors, cookie-session|[Furkan Store with Nextjs](https://github.com/furkan-dogu/furkan-store-with-nextjs)|[Product API](https://github.com/furkan-dogu/ProductAPI)
